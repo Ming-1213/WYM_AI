@@ -3,8 +3,8 @@ import './App.css'
 
 function App() {
   // 火山引擎tts 配置文件
-  const TOKEN = 'DpdcsDXKL_NIxqhSy1l8mjzmC-VcUvf2';
-  const APP_ID = '6952157751';
+  const TOKEN = '';
+  const APP_ID = '';
   const CLUSTER_ID = 'volcano_tts';
 
   // 代码的可读性高于一切
